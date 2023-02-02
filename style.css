@@ -1,0 +1,29 @@
+body{
+    font-family: 'Nerko One', cursive;
+    background-color: #fa93d6;
+    font-size: 20px;
+}
+.header_div{
+    font-family: 'Satisfy', cursive;
+    color: #1830a8;
+}
+.header_div p{
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+button{
+    background-color: #51cbd2;
+    margin-top: 3px;
+    width: 100px;
+    height: 30px;
+    letter-spacing: 1px;
+    border: 2px solid #fac400
+}
+.footer{
+    bottom:0;
+    width:100%;
+    text-align: center;
+    line-height: 3;
+    position: fixed;
+    color: #1280b6
+} 
